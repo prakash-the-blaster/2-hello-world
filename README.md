@@ -1,2 +1,6 @@
 # 2-hello-world
-this is my second repository
+a=int(input('enter the age'))
+if a>=18:
+print('eligibility for voting')
+else :
+print('not eligibility for voting')
